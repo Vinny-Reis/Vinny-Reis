@@ -14,7 +14,7 @@ Sobre min:
 <div>
 <a href="https://github.com/Vinny-Reis">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinny-Reis&layout=compact&langs_count=7&theme=github_dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinny-Reis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinny-Reis&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
 
   ##
